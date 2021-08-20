@@ -1,0 +1,21 @@
+Auto-Scalling : 
+	go to launch templates 
+	create launch templates
+	templates name 
+	description 
+	ami = here select which ec2 instance attach auto scalling 
+	instance type = your innstance type 	
+	key pair = your instance key name 
+	vpc = your instance vpc 
+	add tag = 
+	create templates 
+
+auto-scalling group : 
+	auto-scalling group 
+	create auto-scalling group 
+	name = 
+	launch tamplates = here select your template name 
+	and create 
+
+
+now see the you auto-scalling instance is create 
